@@ -1,4 +1,4 @@
-# Varun-Beverages-stock-price-analysis
+# Varun-Beverages-stock-price-analysis-using-power bi
 Reason for the fall of VBL share price using power bi
 Why VBL is Falling?
 
